@@ -21,9 +21,3 @@ Minimal full-stack app: paste/upload transcript, provide instruction/prompt, gen
 - Backend: deploy to Render, Heroku, or any VPS. Make sure environment variables are set.
 - Frontend: deploy to Vercel / Netlify / GitHub Pages (build step). Set the API base to the backend URL.
 
-## GitHub
-
-1. git init
-2. git add .
-3. git commit -m "Initial commit"
-4. Create a repo on GitHub and follow the instructions to push (or run: git remote add origin git@github.com:youruser/yourrepo.git; git push -u origin main)
